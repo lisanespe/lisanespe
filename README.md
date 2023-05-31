@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lisanespe
-Im a 36 sociologist interested in Analytisc and Data Engineering.
+Im a 37 sociologist interested in Analytics and Data Engineering.
 
 - 📫 lisandroespejo@gmail.com
 
